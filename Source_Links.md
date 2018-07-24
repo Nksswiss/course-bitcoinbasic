@@ -8,14 +8,14 @@ the course could.
 ## History of Bitcoin
 
 Original Bitcoin Whitepaper
-https://bitcoin.org/bitcoin.pdf
+- https://bitcoin.org/bitcoin.pdf
 
 Genesis Block Info
-https://en.bitcoin.it/wiki/Genesis_block
-https://www.blockchain.com/de/btc/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f
+- https://en.bitcoin.it/wiki/Genesis_block
+- https://www.blockchain.com/de/btc/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f
 
 Difficulty & Price History Charts
-https://www.blockchain.com/charts
+- https://www.blockchain.com/charts
 
 ## Technology 
 
@@ -23,15 +23,15 @@ https://www.blockchain.com/charts
 ## Value & Price
 
 See current Price Charts of almost every crypto currency
-https://coinmarketcap.com
-https://coinlib.io
+- https://coinmarketcap.com
+- https://coinlib.io
 
 
 ## Usage & Benefits
 
 Create your own Paper Wallet
-https://bitcoinpaperwallet.com/
+- https://bitcoinpaperwallet.com/
 
 Use Bitcoin Core Wallet to become a full member of the blockchain
-https://bitcoin.org/en/bitcoin-core/
+- https://bitcoin.org/en/bitcoin-core/
 
